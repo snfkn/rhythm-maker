@@ -17,3 +17,7 @@ get '/' do
     @rhythm = erb rhythm_randomizer(@rhythm)
     erb :index, :layout => :template
 end
+
+not_found do
+    redirect '/'
+  end
