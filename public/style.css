@@ -1,0 +1,21 @@
+body    {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1  {
+    font-size: xx-large;
+    color: SteelBlue;
+    margin:0;
+    margin-bottom: 0.5em;
+}
+
+h3  {
+    font-size: 500%;
+    margin:0;
+    margin-bottom: 0.5em;
+}
+
+#off    {
+    color: gainsboro;
+}
